@@ -1,6 +1,6 @@
 # Duck Hunt
 * Matthew Orubina's Duck Hunt Unity Game (C#).
-* Matthew Orubina morubina3@gatech.edu morubina3
+* Matthew Orubina mattoru@yahoo.com morubina3
 
 ## Controls
 * Hold ```W``` - Go Forward, Release W - Stop
