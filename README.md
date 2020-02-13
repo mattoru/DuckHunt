@@ -1,11 +1,6 @@
 # Duck_Escape
 * Team Goober's Duck Escape project for Fall 2019 video game design.
 * Matthew Orubina morubina3@gatech.edu morubina3
-* Violet Armendariz varmendariz31@gatech.edu varmendariz3
-* Jacob Cianci jcianci3@gatech.edu jcianci3
-* Raj Shiddapur rshiddapur3@gatech.edu rshiddapur3
-* Brian Piejak bpiejak3@gatech.edu bpiejak3
-* Alexandra Foote afoote8@gatech.edu afoote8
 
 ## Controls
 * Hold ```W``` - Go Forward, Release W - Stop
@@ -43,14 +38,6 @@ Tips:
 3. Overworld Music is Stardew Valley Opening
 4. Main Menu Music is Minecraft Volume Alpha Mice on Venus
 5. The human and bird models were created by us.
-
-## Who Did What
-* Violet: Created Human, Human Setup (Controls, Sounds etc.), Team Management, General Fixes
-* Jacob: UI, Ugly and Rubber Duck Checks, Ending Cutscene, General Fixes
-* Brian: Bird AI, UI, Sounds on Birds, Ending Cutscene, Health, Assets Screen, General Fixes
-* Matt: Created Birds, Bird AI, Level Management, General Fixes
-* Raj: Pause Menu, Health, Title Screen, General Fixes
-* Alex: Created Levels, Water Damage, General Fixes
 
 ## What Scenes to Open
 1. TitleScreen
