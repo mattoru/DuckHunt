@@ -1,4 +1,4 @@
-# Duck_Escape
+# Duck Hunt
 * Matthew Orubina's Duck Hunt Unity Game (C#).
 * Matthew Orubina morubina3@gatech.edu morubina3
 
