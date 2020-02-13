@@ -1,10 +1,10 @@
 # Duck_Escape
 * Team Goober's Duck Escape project for Fall 2019 video game design.
+* Matthew Orubina morubina3@gatech.edu morubina3
 * Violet Armendariz varmendariz31@gatech.edu varmendariz3
 * Jacob Cianci jcianci3@gatech.edu jcianci3
 * Raj Shiddapur rshiddapur3@gatech.edu rshiddapur3
 * Brian Piejak bpiejak3@gatech.edu bpiejak3
-* Matthew Orubina morubina3@gatech.edu morubina3
 * Alexandra Foote afoote8@gatech.edu afoote8
 
 ## Controls
