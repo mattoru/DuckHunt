@@ -1,5 +1,5 @@
 # Duck_Escape
-* Team Goober's Duck Escape project for Fall 2019 video game design.
+* Matthew Orubina's Duck Hunt Unity Game (C#).
 * Matthew Orubina morubina3@gatech.edu morubina3
 
 ## Controls
